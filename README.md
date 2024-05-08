@@ -8,4 +8,4 @@ This repository contains training material for Spring Boot.
    - Configuring program using Spring Initializer
    - Creating a basic program
   
-2. **Connecting with database using Spring JPI**
+2. **Connecting with database using Spring JPA**
